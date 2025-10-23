@@ -1,0 +1,14 @@
+{
+	"id": "Harrzxzxs additions",
+	"name": "Harrzxzx's additions",
+	"display_name": "Harrzxzx's additions",
+	"author": ["Harrzxzx"],
+	"description": "Harrzxzx's additions adds a variety of new decks, jokers, tarrots,and vouchers!",
+	"prefix": "Harrzxzx",
+	"main_file": "index.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": []
+}
